@@ -4,20 +4,26 @@ This repository, `golang-basic-projects`, is a collection of mini-projects devel
 
 ## Projects
 
-### 1. Factorial Function
-The `factorialfunction` project calculates the factorial of a given number. The factorial of a number is the product of all positive integers up to that number.
-
-### 2. Fibonacci Sequence
-The `fibonaccisequence` project generates the Fibonacci series up to a specified term. The Fibonacci series is a sequence of numbers where the next number is found by adding up the two numbers before it.
-
-### 3. Hello World
+### 1. Hello World
+`Request`: Write a program that prints "Hello, World!" to the console.
 The `helloworld` project is the most basic program possible in Go. It's used as a starting point for any new Go programmer and simply prints out the message "Hello, World!".
 
-### 4. String Reversal
+### 2. Sum and Average
+`Request:` Write a program that takes an array of integers as input and calculates their sum and average. 
+The `sumandaverage` project takes multiple numbers as input and calculates their sum and average.
+
+### 3. Factorial Function
+`Request:` Write a function that calculates the factorial of a number. A factorial of a number n is the product of all positive integers less than or equal to n.
+The `factorialfunction` project calculates the factorial of a given number. The factorial of a number is the product of all positive integers up to that number.
+
+### 4. Fibonacci Sequence
+`Request:` Write a program that generates the first n numbers in the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
+The `fibonaccisequence` project generates the Fibonacci series up to a specified term. The Fibonacci series is a sequence of numbers where the next number is found by adding up the two numbers before it.
+
+### 5. String Reversal
+`Request:` Write a function that takes a string as input and returns the string reversed.
 The `stringreversal` project is used to reverse the input string. It's a common exercise to understand string manipulation in any language.
 
-### 5. Sum and Average
-The `sumandaverage` project takes multiple numbers as input and calculates their sum and average.
 
 Please note that these projects are meant for educational purposes and to help beginners learn the basics of Go. More projects will be added to this repository in the future.
 
