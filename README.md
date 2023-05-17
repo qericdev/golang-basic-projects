@@ -31,5 +31,10 @@ The `stringreversal` project is used to reverse the input string. It's a common 
 
 Please note that these projects are meant for educational purposes and to help beginners learn the basics of Go. More projects will be added to this repository in the future.
 
+### 6. Palindrome Check
+`Request:` Write a function that checks if a given word or phrase is a palindrome (reads the same backwards as forwards, ignoring spaces, punctuation, and capitalization).
+
+The `palindromecheck` project is used to verify if the input string is a palindrome. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization. It's a common exercise to understand string manipulation and condition checking in any language.
+
 ## Support
 If you have any questions or need further assistance, please open an issue on this repository.
