@@ -36,5 +36,10 @@ Please note that these projects are meant for educational purposes and to help b
 
 The `palindromecheck` project is used to verify if the input string is a palindrome. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization. It's a common exercise to understand string manipulation and condition checking in any language.
 
+### 7. Structs and Methods
+`Request:` Define a struct for a Rectangle with two fields, length and width. Write methods to calculate the area and perimeter of the Rectangle.
+
+The rectangle project focuses on the use of structs and methods in Go. Structs are used to group together variables of different types, forming the basis for object-oriented programming in Go. In this project, you will create a rectangle struct with two fields, length and width, and write methods to calculate the area and perimeter of a rectangle.
+
 ## Support
 If you have any questions or need further assistance, please open an issue on this repository.
