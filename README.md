@@ -41,5 +41,17 @@ The `palindromecheck` project is used to verify if the input string is a palindr
 
 The rectangle project focuses on the use of structs and methods in Go. Structs are used to group together variables of different types, forming the basis for object-oriented programming in Go. In this project, you will create a rectangle struct with two fields, length and width, and write methods to calculate the area and perimeter of a rectangle.
 
+### 8. Sorting Slice
+`Request:` Write a program that sorts a slice of integers in ascending order. Try implementing a simple sorting algorithm, like bubble sort or selection sort, yourself.
+
+The sortingslice project focuses on implementing sorting algorithms in Go. In computer science, sorting is a fundamental concept, and different sorting algorithms have different efficiencies, which makes them an interesting topic to explore and understand.
+
+In this project, you will write a program that sorts a slice of integers in ascending order. You will implement simple sorting algorithms, like bubble sort and selection sort. This is a common exercise for understanding arrays or slices, loops, conditionals, and basic algorithms in Go.
+
+The user should be able to enter a list of integers to be sorted. They should also have the option to choose the sorting algorithm to use, and the program should output the sorted list.
+
+This project is an excellent opportunity for beginners to practice array/slice manipulation and algorithm implementation in Go. More complex projects involving data structures and algorithms will be added to this repository in the future.
+
+
 ## Support
 If you have any questions or need further assistance, please open an issue on this repository.
